@@ -72,28 +72,16 @@
 
 ---
 
-## 🛠 Tech Stack
+## ⚙️ Tech Stack
 
-**Frontend:**
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-
-**Backend:**
-
-![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-
-**Tools:**
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+#### 🎨 Frontend
+<p align="left"> <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,bootstrap,tailwind,materialui&perline=9" /> </p>
+🧩 Backend
+<p align="left"> <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,mongodb,graphql,python,fastapi,sqlite,postgresql&perline=9" /> </p>
+⚡ Algorithms & System Programming
+<p align="left"> <img src="https://skillicons.dev/icons?i=cpp&perline=9" /> </p>
+☁️ DevOps & Tools
+<p align="left"> <img src="https://skillicons.dev/icons?i=docker,nginx,linux,git,github,vscode,firebase,webpack,postman&perline=9" /> <a href="https://pm2.keymetrics.io/"> <img src="https://img.shields.io/badge/PM2-Process%20Manager-2e8b57?logo=pm2&logoColor=white" /> </a> </p>
 
 ---
 
