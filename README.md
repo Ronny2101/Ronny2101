@@ -1,18 +1,11 @@
-<!-- 🌌 Matrix Rain Header -->
-<!-- <p align="center">
+<!-- 🌌 Matrix Rain Header --> 
+<p align="center">
   <img src="https://raw.githubusercontent.com/Ronny2101/rainmatrix.svg/main/matrix-rain.svg" width="100%" alt="Matrix Rain Header"/>
 </p>
 
 <div align="center">
 
 ### 💻 Full Stack Web Developer | 🧠 Tech Explorer | 🌍 Multilingual  
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Ronny2101/workflow/main/assets/flags/uz.svg" height="14"/> Uzbek &nbsp;|&nbsp;
-  <img src="https://raw.githubusercontent.com/Ronny2101/workflow/main/assets/flags/gb.svg" height="14"/> English &nbsp;|&nbsp;
-  <img src="https://raw.githubusercontent.com/Ronny2101/workflow/main/assets/flags/kr.svg" height="14"/> Korean &nbsp;|&nbsp;
-  <img src="https://raw.githubusercontent.com/Ronny2101/workflow/main/assets/flags/ru.svg" height="14"/> Russian
-</p>
 
 📧 [dilshoddaminov21@gmail.com](mailto:dilshoddaminov21@gmail.com)  
 📍 Based in **South Korea**
@@ -53,37 +46,9 @@
 ## 🧩 Contribution Activity
 <div align="center">
 
-<!-- ![Snake Animation](https://raw.githubusercontent.com/Adamd3vs/workflow/output/github-contribution-grid-snake.svg) -->
- -->
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Hi+I'm+Dilshod!+👋;Full+Stack+Developer;NestJS+%7C+React+%7C+TypeScript" alt="Typing SVG" />
 </div>
-
----
-
-<div align="center">
-
-### 💻 Full Stack Developer | 🌍 Based in Uzbekistan
-
-📧 [dilshoddaminov21@gmail.com](mailto:dilshoddaminov21@gmail.com)  
-📍 Based in **South Korea**
-
-</div>
-
----
-
-## ⚙️ Tech Stack
-
-#### 🎨 Frontend
-<p align="left"> <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,bootstrap,tailwind,materialui&perline=9" /> </p>
-🧩 Backend
-<p align="left"> <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,mongodb,graphql,python,fastapi,sqlite,postgresql&perline=9" /> </p>
-⚡ Algorithms & System Programming
-<p align="left"> <img src="https://skillicons.dev/icons?i=cpp&perline=9" /> </p>
-☁️ DevOps & Tools
-<p align="left"> <img src="https://skillicons.dev/icons?i=docker,nginx,linux,git,github,vscode,firebase,webpack,postman&perline=9" /> <a href="https://pm2.keymetrics.io/"> <img src="https://img.shields.io/badge/PM2-Process%20Manager-2e8b57?logo=pm2&logoColor=white" /> </a> </p>
-
----
 
 ## 📊 GitHub Stats
 
