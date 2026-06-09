@@ -28,7 +28,6 @@
 ---
 
 ## 🧩 Contribution Activity
-<div align="center">
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Hi+I'm+Dilshod!+👋;Full+Stack+Developer;NestJS+%7C+React+%7C+TypeScript" alt="Typing SVG" />
