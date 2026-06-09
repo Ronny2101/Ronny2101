@@ -43,7 +43,10 @@
 
 ---
 
-## 🚀 Projects
+ ## Projects
+
+  - **[Solven](https://rolexwatch.uz)** — Luxury Watch e-commerce platform (Next.js, NestJS, GraphQL, MongoDB)
+  - **[Amaya](https://cybertechnical.uz)** — Cyber Technical e-commerce platform (React, Express, MongoDB)
 
 | Project | Description | Tech |
 |---------|-------------|------|
