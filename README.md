@@ -45,8 +45,8 @@
 
  ## Projects
 
-  - **[Rolex](https://rolexwatch.uz)** — Luxury Watch e-commerce platform (Next.js, NestJS, GraphQL, MongoDB)
-  - **[Cyber](https://cybertechnical.uz)** — Cyber Technical e-commerce platform (React, Express, MongoDB)
+  - **[Rolex](http://rolexwatch.uz/)** — Luxury Watch e-commerce platform (Next.js, NestJS, GraphQL, MongoDB)
+  - **[Cyber](http://cybertechnical.uz/)** — Cyber Technical e-commerce platform (React, Express, MongoDB)
 
 ---  
 
