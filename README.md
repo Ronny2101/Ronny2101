@@ -27,22 +27,6 @@
 
 ---
 
-## 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Ronny2101/workflow/main/assets/github-trophies.svg" width="100%" alt="GitHub Trophies"/>
-</p>
-
----
-
-## 📊 GitHub Analytics
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Ronny2101/workflow/main/assets/github-stats.svg" height="180em" alt="GitHub Stats"/>
-  <img src="https://raw.githubusercontent.com/Ronny2101/workflow/main/assets/top-langs.svg" height="180em" alt="Top Languages"/>
-</div>
-
-
----
-
 ## 🧩 Contribution Activity
 <div align="center">
 
