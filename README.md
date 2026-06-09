@@ -48,6 +48,8 @@
   - **[Rolex](https://rolexwatch.uz)** — Luxury Watch e-commerce platform (Next.js, NestJS, GraphQL, MongoDB)
   - **[Cyber](https://cybertechnical.uz)** — Cyber Technical e-commerce platform (React, Express, MongoDB)
 
+---  
+
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Ronny2101&color=00ff41&style=for-the-badge" />
 </div>
