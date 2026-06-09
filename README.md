@@ -45,16 +45,8 @@
 
  ## Projects
 
-  - **[Solven](https://rolexwatch.uz)** — Luxury Watch e-commerce platform (Next.js, NestJS, GraphQL, MongoDB)
-  - **[Amaya](https://cybertechnical.uz)** — Cyber Technical e-commerce platform (React, Express, MongoDB)
-
-| Project | Description | Tech |
-|---------|-------------|------|
-| [Portfolio](https://github.com/Ronny2101/portfolio) | Personal portfolio site | HTML/CSS/JS |
-| [Rolex](https://github.com/Ronny2101/rolex) | NestJS backend app | TypeScript |
-| [Cyber](https://github.com/Ronny2101/cyber) | Cyber project | TypeScript |
-
----
+  - **[Rolex](https://rolexwatch.uz)** — Luxury Watch e-commerce platform (Next.js, NestJS, GraphQL, MongoDB)
+  - **[Cyber](https://cybertechnical.uz)** — Cyber Technical e-commerce platform (React, Express, MongoDB)
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Ronny2101&color=00ff41&style=for-the-badge" />
